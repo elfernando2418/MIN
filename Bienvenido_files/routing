@@ -1,0 +1,1 @@
+fos.Router.setData({"base_url":"","routes":{"hcue_vacunacion_mostrarcertificadomsp":{"tokens":[["variable","\/","[^\/]++","cedula"],["text","\/mostrarcertificadomsp"]],"defaults":{"cedula":0},"requirements":[],"hosttokens":[]}},"prefix":"","host":"certificados-vacunas.msp.gob.ec","scheme":"http"});
